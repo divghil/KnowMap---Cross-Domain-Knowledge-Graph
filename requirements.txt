@@ -1,0 +1,10 @@
+pandas
+nltk
+spacy
+sentence-transformers
+torch
+networkx
+pyvis
+python-louvain
+matplotlib
+streamlit
