@@ -12,14 +12,12 @@ A Natural Language Processing (NLP) project that creates a knowledge graph from 
 - `Milestone 2/`, `Milestone 3/`, `Milestone 4/`: Incremental project deliverables.
 - `Final Presentation - Cross Domain Knowledge Graph without flatten pdf.pdf`: The final presentation deck.
 
+
 Architecture: Spacy (NER & Relation Extraction) + Sentence-Transformers (Embeddings)
-
 Graph Engine: NetworkX & PyVis for interactive visualization
-
 Algorithm: Louvain Method for community detection/clustering
-
 Interface: Streamlit web application for real-time graph generation
-
 Key Features: Cross-domain entity linking, relationship mapping, and interactive node filtering.
-
-Install dependencies: pip install -r requirements.txt
+Install dependencies:
+   ```bash
+   pip install -r requirements.txt
