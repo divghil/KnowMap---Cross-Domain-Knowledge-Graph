@@ -14,10 +14,15 @@ A Natural Language Processing (NLP) project that creates a knowledge graph from 
 
 
 Architecture: Spacy (NER & Relation Extraction) + Sentence-Transformers (Embeddings)
+
 Graph Engine: NetworkX & PyVis for interactive visualization
+
 Algorithm: Louvain Method for community detection/clustering
+
 Interface: Streamlit web application for real-time graph generation
+
 Key Features: Cross-domain entity linking, relationship mapping, and interactive node filtering.
+
 Install dependencies:
    ```bash
    pip install -r requirements.txt
